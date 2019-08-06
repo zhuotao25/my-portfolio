@@ -1,0 +1,22 @@
+{
+  "name": "responsive-portfolio-website",
+  "version": "1.0.0",
+  "description": "Responsive Portfolio Website using HTML5, CSS3 - Transitions/Grid/Flex, Sass, and JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuotao25/responsive-portfolio-website.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhuotao25/responsive-portfolio-website/issues"
+  },
+  "homepage": "https://github.com/zhuotao25/responsive-portfolio-website#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
