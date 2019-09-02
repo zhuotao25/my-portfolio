@@ -138,7 +138,7 @@ header {
 
 main {
   padding: 4rem;
-  min-height: calc(100vh-60px); }
+  min-height: calc(100vh - 60px); }
   main .icons {
     margin-top: 1rem; }
     main .icons a {
@@ -215,5 +215,8 @@ main {
 
 @media screen and (max-width: 500px) {
   main#home h1 {
+    margin-top: 10vh;
+    font-size: 60px; }
+  main#about h1 {
     margin-top: 10vh;
     font-size: 60px; } }
